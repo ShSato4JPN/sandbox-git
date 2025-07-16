@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 aiueo
 kakikukeko
+=======
+かきくけこ
+さしすせそ
+>>>>>>> parent of ce03ab8 (Revert "add sasissuseso")
