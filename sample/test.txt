@@ -1,5 +1,0 @@
-a
-b
-c
-add from feature/test1
-add from feature/test2
