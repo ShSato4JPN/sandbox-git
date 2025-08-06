@@ -1,1 +1,2 @@
-rebaes してみる
+squash マージしてみる
+edit
