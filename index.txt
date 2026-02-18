@@ -1,2 +1,1 @@
-squash マージしてみる
-edit
+testA 更新しましたA
